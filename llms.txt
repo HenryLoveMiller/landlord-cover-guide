@@ -1,0 +1,16 @@
+# Landlord Cover Guide
+
+> Free, ad-free reference for what landlord insurance costs in Australia: published costs by state, a calculator, what a landlord policy actually covers, and answers to the questions landlords ask. Figures carry the date and source they were read from. We are not paid by any insurer listed here.
+
+Costs are dated and change. This site is general information about published prices, not advice and not a recommendation to use any particular insurer.
+
+## Costs and coverage
+
+- [What landlord insurance costs in Australia](https://henrylovemiller.github.io/landlord-cover-guide/): Overview of published landlord insurance costs across the states and what drives the differences.
+- [Landlord insurance cost by state](https://henrylovemiller.github.io/landlord-cover-guide/cost.html): Published cost figures by state, with the source each figure was read from and the date it was read.
+- [Landlord insurance calculator](https://henrylovemiller.github.io/landlord-cover-guide/calculator.html): Estimate what cover would cost for a given property and excess.
+- [What landlord insurance covers](https://henrylovemiller.github.io/landlord-cover-guide/whats-covered.html): What a landlord policy covers — building versus contents, and the common exclusions.
+
+## Questions and policy
+
+- [Landlord insurance FAQ](https://henrylovemiller.github.io/landlord-cover-guide/faq.html): Answers to the questions landlords ask most: whether it is compulsory, average cost, which state is most expensive, what an unoccupied excess means, whether it is tax deductible, and whether raising the excess saves money.
